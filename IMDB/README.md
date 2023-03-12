@@ -6,7 +6,7 @@
 
 **"IMDB.txt"** is created to understand html code of the website.
 
-**"try.ipynb"**  this notbook is created for my personal help to do some try and error code.
+**"try.ipynb"**  this notebook is created for my personal help to do some try and error code.
 
 
 
